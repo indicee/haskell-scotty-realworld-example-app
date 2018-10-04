@@ -12,7 +12,6 @@ We've gone to great lengths to adhere to the **Haskell/Scotty** community styleg
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
-
 # How it works
 
 ## Environment Variables
